@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+transformers
+torch
+rapidfuzz
+
+# uvicorn ml_server:app --reload
